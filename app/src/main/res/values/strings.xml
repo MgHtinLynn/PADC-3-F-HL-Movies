@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">PADC-3-HL-Movies</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_item_movies">Item_movies</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="movie_content">In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. From Mike Judge comes this satire about a programmer whose game-changing algorithm becomes the subject of a valley-wide bidding war.Silicon is a twisty, tightly scripted show, one that captures all the dick moves (and dick jokes)ilicon Valley is a TV show that was much talked about even before it's debut on HBO. With the Silicon Valley now finding a Hollywood-like atmosphere in the way it's viewed, the entertainment industry's focus on Silicon Valley and it's unique lifestyle and culture is somewhat new and has yet to find it's equilibrium of representation between the reality of the innovation happening there and the bizarre, comedy ammunition that lies in some of the more eccentric aspects. Mike Judge's Silicon Valley is a damn good start. It's witty and scathing, and takes an sarcastic approach to it with an outsider's eye. Of course, Mike Judge is no outsider, having worked in Palo Alto during the late 80's, and his disdain for it's people and culture shows.</string>
 </resources>
